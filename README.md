@@ -33,11 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Akram's GitHub stats](https://github-readme-stats.vercel.app/api?username=akram-bahy&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akram-bahy&layout=compact&theme=tokyonight)
-
----
 
 ## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=akram-bahy&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
