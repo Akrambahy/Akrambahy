@@ -1,4 +1,4 @@
-# 🚀 Hey 👋, I'm Akram Bahy!  
+# 🚀 Hey 👋, I'm Akram Bahy  
 
 🎓 Computer Science Student  
 💻 Passionate about **Competitive Programming** & **C++ Projects**  
