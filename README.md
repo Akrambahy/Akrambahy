@@ -1,7 +1,6 @@
 #  Hey 👋, I'm Akram Bahy  
 
 🚀 A passionate Computer Science Student and Competitive Programmer who loves solving challenging problems and building efficient solutions with C++.
-💡 Always curious, always learning — from competitive platforms to exploring new technologies.
 
 ---
 
