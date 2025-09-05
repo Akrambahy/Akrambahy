@@ -4,7 +4,7 @@
 💻 Passionate about **Competitive Programming** & **C++ Projects**  
 🏆 Practicing on **Codeforces / LeetCode / AtCoder**  
 📚 Always learning & exploring new technologies  
-- :school: Student at the [Faculty of Computers & Informatics](https://www.svu.edu.eg/faculties/fci/en/home-page-en/) - [South Valley University](https://www.svu.edu.eg/ar/).
+:school: Student at the [Faculty of Computers & Informatics](https://www.svu.edu.eg/faculties/fci/en/home-page-en/) - [South Valley University](https://www.svu.edu.eg/ar/).
 ---
 
 ## 🚀 Skills  
