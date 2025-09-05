@@ -1,10 +1,10 @@
-#  Hey 👋, I'm Akram Bahy  
+# 🚀 Hey 👋, I'm Akram Bahy  
 
 🎓 Computer Science Student  
 💻 Passionate about **Competitive Programming** & **C++ Projects**  
 🏆 Practicing on **Codeforces / LeetCode / AtCoder**  
 📚 Always learning & exploring new technologies  
-:school: Student at the [Faculty of Computers & Informatics](https://www.svu.edu.eg/faculties/fci/en/home-page-en/) - [South Valley University](https://www.svu.edu.eg/ar/).
+
 ---
 
 ## 🚀 Skills  
@@ -20,8 +20,8 @@
 
 ### ⚔ Competitive Programming Profiles  
 [![Codeforces](https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/---AKRAM---)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)  
-[![AtCoder](https://img.shields.io/badge/AtCoder-2E7D32?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/](https://leetcode.com/u/AkramBahy/))  
+[![AtCoder](https://img.shields.io/badge/AtCoder-2E7D32?style=for-the-badge&logo=atcoder&logoColor=white)]([https://atcoder.jp/](https://atcoder.jp/users/AkramBahy))
 
 ### 🌍 Languages  
 ![Arabic](https://img.shields.io/badge/Arabic-Native-green?style=for-the-badge)
@@ -43,4 +43,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akram-bahy/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akrambahy0@gmail.com)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/RIW5T4AO7S5MG1)
-
