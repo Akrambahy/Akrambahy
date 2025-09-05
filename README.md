@@ -6,10 +6,10 @@
 ---
 
 ## 💫 About Me:
-🎓 Computer Science Student  
-💻 Passionate about **Competitive Programming** & **C++ Projects**  
-🏆 Practicing on **Codeforces / LeetCode / AtCoder**  
-📚 Always learning & exploring new technologies  
+- 🎓 Computer Science Student  
+- 💻 Passionate about **Competitive Programming** & **C++ Projects**  
+- 🏆 Practicing on **Codeforces / LeetCode / AtCoder**  
+- 📚 Always learning & exploring new technologies  
 
 ---
 
