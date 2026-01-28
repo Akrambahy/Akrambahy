@@ -1,74 +1,96 @@
 <div align="center">
 
-# Hi 👋, I'm Akram Bahy
+# 👋 Hi, I'm Akram Bahy
 
-### Software Engineer | Backend Specialist | Problem Solver | Mobile (Flutter)
+### 🧠 Software Engineer | Backend Specialist | Competitive Programmer | Mobile (Flutter)
 
 <p align="center">
-  <em>Building scalable systems with clean architecture and turning logic into reliable software.</em>
+  <em>
+    I turn complex logic into clean, scalable, and reliable software.<br>
+    I enjoy systems that make sense — not just code that works.
+  </em>
 </p>
 
-[![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akrambahy)
-[![](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Akrambahy)
-[![](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/qr/RIW5T4AO7S5MG1)
+<p align="center">
+  <a href="https://linkedin.com/in/akrambahy">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://github.com/Akrambahy">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+  <a href="https://wa.me/qr/RIW5T4AO7S5MG1">
+    <img src="https://img.icons8.com/fluency/48/whatsapp.png" height="40"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 💫 About Me
+## 🧠 About Me
 
-I am a **Software Engineering Student** passionate about backend development and algorithmic challenges. My focus is on writing efficient code using **.NET** and building versatile applications with **Flutter**.
-- 🎓 Computer Science Student  
-- 💻 Passionate about **Competitive Programming** & **C++ Projects**  
-- 🏆 Practicing on **Codeforces / LeetCode / AtCoder**  
-- 📚 Always learning & exploring new technologies  
-* 🔭 I’m currently working on **Scalable Backend Systems**.
-* 💻 Strong foundation in **Algorithms, Data Structures, and OOP**.
-* ⚙️ I use daily: **.NET, C#, C++, & Git**.
-
----
-
-## 🛠 Tech Stack & Tools
-
-<div align="center">
-
-### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-### Frameworks & Cloud
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</div>
+I'm a **Software Engineering** with a deep interest in **backend systems, algorithms, problem solving ,Cross-Platform Mobile Appsr**.  
+I focus on **how systems behave under real constraints**: scale, performance, structure, and maintainability.
+- 🎓 **Computer Science Student** – Strong foundation in algorithms, data structures, and software engineering principles.  
+- 🧩 **Logic-First Mindset** – Analytical thinker, focused on solving problems efficiently and elegantly.  
+- 🏗 **Clean Architecture Enthusiast** – Passionate about writing maintainable, scalable, and well-structured code.
+- 🧠 **Strong Problem Solving & Algorithms** – Passionate about tackling challenges with efficient solutions.
+- ☁️ **Backend, Cloud & Cross-Platform Development** – Building scalable systems and Flutter apps.
+- 📚 **Continuous Learner** – Hands-on experience in real projects, always improving my skills.
+- ⚡ **Agile & Structured Work** – Comfortable with Agile methodologies and team collaboration.
 
 ---
 
-## 🧩 Engineering Mindset
 
-I approach software development with a focus on long-term maintainability and efficiency:
+## 🛠 Tech Stack
 
-* **Clean Architecture:** Separation of concerns is key.
-* **SOLID Principles:** Writing code that is easy to extend and maintain.
-* **Problem Solving:** Solving complex algorithmic problems using **C#** and **C++**.
-* **Agile:** Iterative development and continuous improvement.
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,dart" />
+</p>
+
+### ⚙️ Frameworks & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,flutter,azure" />
+</p>
+
+### 🧰 Tools & Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,postman" />
+</p>
 
 ---
 
-## 🌐 Spoken Languages
+## 🧩 Engineering Philosophy
 
-| Language | Proficiency |
-| :--- | :--- |
-| **Arabic** | Native 🇪🇬 |
-| **English** | Upper Intermediate 🇺🇸 |
+- 🏗 **Clean Architecture**  
+  Business logic should not depend on frameworks.
+
+- 🧱 **SOLID Principles**  
+  Code must be easy to extend without breaking.
+
+- ⚡ **Performance Awareness**  
+  Especially in algorithmic and backend-heavy systems.
+
+- 🔁 **Continuous Improvement**  
+  Every solution can be simpler and clearer.
+
+---
+## 🧩 Problem Solving
+
+I treat coding as a craft. My academic background allows me to write optimized code:
+
+- **Algorithmic Thinking:** Solving complex problems using C++ & C#.
+- **Complexity Analysis:** Focusing on Time & Space complexity.
+- **Continuous Practice:** Active on competitive programming platforms.
+---
+
+## 🌍 Languages
+
+| Language | Level |
+|--------|------|
+| 🇪🇬 Arabic | Native |
+| 🇺🇸 English | Upper Intermediate |
 
 ---
 
@@ -76,14 +98,26 @@ I approach software development with a focus on long-term maintainability and ef
 
 <div align="center">
 
-![Akram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akrambahy&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Akrambahy&show_icons=true&theme=radical&hide_border=true" height="170"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akrambahy&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akrambahy&layout=compact&theme=radical&hide_border=true" height="170"/>
 
 </div>
 
 ---
 
+## 📫 Contact Me
+
+- **LinkedIn:** https://linkedin.com/in/akrambahy  
+- **GitHub:** https://github.com/Akrambahy  
+- **WhatsApp:** https://wa.me/qr/RIW5T4AO7S5MG1  
+
+---
+
 <div align="center">
-  <p>⭐ <i>Interested in backend systems, cloud technologies, and building scalable software.</i></p>
+  <p>
+    ⭐ <i>
+    Interested in backend systems, algorithms, and building software that survives real-world complexity.
+    </i>
+  </p>
 </div>
