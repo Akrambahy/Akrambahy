@@ -29,7 +29,7 @@
 
 ## 🧠 About Me
 
-I'm a **Software Engineering** with a deep interest in **backend systems, algorithms, problem solving ,Cross-Platform Mobile Appsr**.  
+I'm a **Software Engineering** with a deep interest in **backend systems, algorithms, problem solving ,Cross-Platform Mobile Apps**.  
 I focus on **how systems behave under real constraints**: scale, performance, structure, and maintainability.
 - 🎓 **Computer Science Student** – Strong foundation in algorithms, data structures, and software engineering principles.  
 - 🧩 **Logic-First Mindset** – Analytical thinker, focused on solving problems efficiently and elegantly.  
@@ -61,7 +61,7 @@ I focus on **how systems behave under real constraints**: scale, performance, st
 
 ---
 
-## 🧩 Engineering Philosophy
+## 🧭 Engineering Philosophy
 
 - 🏗 **Clean Architecture**  
   Business logic should not depend on frameworks.
