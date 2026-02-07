@@ -95,31 +95,25 @@ I treat coding as a craft. My academic background allows me to write optimized c
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Akrambahy&show_icons=true&theme=radical&hide_border=true"
-    height="170"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akrambahy&layout=compact&theme=radical&hide_border=true"
-    height="170"
-    alt="Top Languages"
-  />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=AkramBahy&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AkramBahy&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkramBahy&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ## 📫 Contact Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akram%20Bahy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akrambahy)
-[![GitHub](https://img.shields.io/badge/GitHub-Akrambahy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akrambahy)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/RIW5T4AO7S5MG1)
-
+<div align="center" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+  <a href="https://linkedin.com/in/akrambahy" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/Akrambahy" target="_blank">
+    <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://wa.me/qr/RIW5T4AO7S5MG1" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" width="40" height="40"/>
+  </a>
 </div>
-
 
 ---
 
