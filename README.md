@@ -103,16 +103,33 @@ I treat coding as a craft. My academic background allows me to write optimized c
 
 ## 📫 Contact Me
 
-<div align="center" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/akrambahy" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
+
+  <!-- GitHub -->
   <a href="https://github.com/Akrambahy" target="_blank">
     <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="40" height="40"/>
   </a>
+
+  <!-- WhatsApp -->
   <a href="https://wa.me/qr/RIW5T4AO7S5MG1" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" width="40" height="40"/>
   </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/people/%E1%8E%AF%E1%8F%A6%E1%8F%92%E1%8E%AF%E1%8E%B7-%E1%8F%B0%E1%8E%AF%E1%8E%BB%E1%8E%BD/pfbid0VB4RQyDmzKdsCtYVi279ADsEWdPqvhkiGWaP7UHD8PpyVvpUoZcNwJA33y1RWLKwl/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="40" height="40"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:akrambahy@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="40" height="40"/>
+  </a>
+
 </div>
 
 ---
