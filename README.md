@@ -63,16 +63,16 @@ I focus on **how systems behave under real constraints**: scale, performance, st
 
 ## 🧭 Engineering Philosophy
 
-- 🏗 **Clean Architecture**  
+-  **Clean Architecture**  
   Business logic should not depend on frameworks.
 
-- 🧱 **SOLID Principles**  
+-  **SOLID Principles**  
   Code must be easy to extend without breaking.
 
-- ⚡ **Performance Awareness**  
+-  **Performance Awareness**  
   Especially in algorithmic and backend-heavy systems.
 
-- 🔁 **Continuous Improvement**  
+-  **Continuous Improvement**  
   Every solution can be simpler and clearer.
 
 ---
@@ -95,22 +95,31 @@ I treat coding as a craft. My academic background allows me to write optimized c
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Akrambahy&show_icons=true&theme=radical&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akrambahy&layout=compact&theme=radical&hide_border=true" height="170"/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Akrambahy&show_icons=true&theme=radical&hide_border=true"
+    height="170"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akrambahy&layout=compact&theme=radical&hide_border=true"
+    height="170"
+    alt="Top Languages"
+  />
 </div>
 
 ---
 
 ## 📫 Contact Me
 
-- **LinkedIn:** https://linkedin.com/in/akrambahy  
-- **GitHub:** https://github.com/Akrambahy  
-- **WhatsApp:** https://wa.me/qr/RIW5T4AO7S5MG1  
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akram%20Bahy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akrambahy)
+[![GitHub](https://img.shields.io/badge/GitHub-Akrambahy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akrambahy)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/RIW5T4AO7S5MG1)
+
+</div>
+
 
 ---
 
