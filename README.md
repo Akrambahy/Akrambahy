@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Akram Bahy
+#  Hi, I'm Akram Bahy
 
-### 🧠 Software Engineer | Backend Specialist | Competitive Programmer | Mobile (Flutter)
+###  Software Engineer | Backend  | Competitive Programmer | Mobile (Flutter)
 
 <p align="center">
   <em>
@@ -27,47 +27,42 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I'm a **Software Engineering** with a deep interest in **backend systems, algorithms, problem solving ,Cross-Platform Mobile Apps**.  
 I focus on **how systems behave under real constraints**: scale, performance, structure, and maintainability.
-- 🎓 **Computer Science Student** – Strong foundation in algorithms, data structures, and software engineering principles.  
-- 🧩 **Logic-First Mindset** – Analytical thinker, focused on solving problems efficiently and elegantly.  
-- 🏗 **Clean Architecture Enthusiast** – Passionate about writing maintainable, scalable, and well-structured code.
-- 🧠 **Strong Problem Solving & Algorithms** – Passionate about tackling challenges with efficient solutions.
-- ☁️ **Backend, Cloud & Cross-Platform Development** – Building scalable systems and Flutter apps.
-- 📚 **Continuous Learner** – Hands-on experience in real projects, always improving my skills.
-- ⚡ **Agile & Structured Work** – Comfortable with Agile methodologies and team collaboration.
+-  **Computer Science Student** – Strong foundation in algorithms, data structures, and software engineering principles.  
+-  **Logic-First Mindset** – Analytical thinker, focused on solving problems efficiently and elegantly.  
+- **Problem Solving & Algorithms** – Passionate about tackling challenges with efficient solutions.
+-  **Backend, Cloud & Cross-Platform Development** – Building scalable systems and Flutter apps.
+-
 
 ---
 
 
-## 🛠 Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,dart" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,dart,html,css,js" />
 </p>
 
-### ⚙️ Frameworks & Platforms
+###  Frameworks & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,flutter,azure" />
+  <img src="https://skillicons.dev/icons?i=dotnet,flutter,bootstrap,azure" />
 </p>
 
-### 🧰 Tools & Environment
+###  Tools & Environment
 <p>
   <img src="https://skillicons.dev/icons?i=git,linux,postman" />
 </p>
 
 ---
 
-## 🧭 Engineering Philosophy
+##  Engineering Philosophy
 
 -  **Clean Architecture**  
   Business logic should not depend on frameworks.
-
--  **SOLID Principles**  
-  Code must be easy to extend without breaking.
 
 -  **Performance Awareness**  
   Especially in algorithmic and backend-heavy systems.
@@ -76,7 +71,7 @@ I focus on **how systems behave under real constraints**: scale, performance, st
   Every solution can be simpler and clearer.
 
 ---
-## 🧩 Problem Solving
+##  Problem Solving
 
 I treat coding as a craft. My academic background allows me to write optimized code:
 
@@ -85,7 +80,7 @@ I treat coding as a craft. My academic background allows me to write optimized c
 - **Continuous Practice:** Active on competitive programming platforms.
 ---
 
-## 🌍 Languages
+##  Languages
 
 | Language | Level |
 |--------|------|
@@ -94,14 +89,9 @@ I treat coding as a craft. My academic background allows me to write optimized c
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=AkramBahy&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AkramBahy&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkramBahy&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 
-## 📫 Contact Me
+##  Contact Me
 
 <div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
 
@@ -112,7 +102,7 @@ I treat coding as a craft. My academic background allows me to write optimized c
 
   <!-- GitHub -->
   <a href="https://github.com/Akrambahy" target="_blank">
-    <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=4Z2nCrz5iPY2&format=png&color=000000" alt="GitHub" width="40" height="40"/>
   </a>
 
   <!-- WhatsApp -->
@@ -127,7 +117,7 @@ I treat coding as a craft. My academic background allows me to write optimized c
 
   <!-- Gmail -->
   <a href="mailto:akrambahy@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail" width="40" height="40"/>
   </a>
 
 </div>
@@ -136,7 +126,7 @@ I treat coding as a craft. My academic background allows me to write optimized c
 
 <div align="center">
   <p>
-    ⭐ <i>
+     <i>
     Interested in backend systems, algorithms, and building software that survives real-world complexity.
     </i>
   </p>
