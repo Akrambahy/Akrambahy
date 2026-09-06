@@ -2,7 +2,7 @@
 
 #  Hi, I'm Akram Bahy
 
-###  Software Engineer | Backend  | Competitive Programmer | Mobile (Flutter)
+###  Software Engineer 
 
 <p align="center">
   <em>
@@ -29,13 +29,8 @@
 
 ##  About Me
 
-I'm a **Software Engineering** with a deep interest in **backend systems, algorithms, problem solving ,Cross-Platform Mobile Apps**.  
-I focus on **how systems behave under real constraints**: scale, performance, structure, and maintainability.
--  **Computer Science Student** – Strong foundation in algorithms, data structures, and software engineering principles.  
--  **Logic-First Mindset** – Analytical thinker, focused on solving problems efficiently and elegantly.  
-- **Problem Solving & Algorithms** – Passionate about tackling challenges with efficient solutions.
--  **Backend, Cloud & Cross-Platform Development** – Building scalable systems and Flutter apps.
--
+I'm a **Software Engineering** with a deep interest in **backend systems, algorithms, problem solving **.  
+
 
 ---
 
@@ -44,41 +39,21 @@ I focus on **how systems behave under real constraints**: scale, performance, st
 
 ###  Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,dart,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,dart,go" />
 </p>
 
 ###  Frameworks & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,flutter,bootstrap,azure" />
+  <img src="https://skillicons.dev/icons?i=dotnet" />
 </p>
 
 ###  Tools & Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=git,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=git,linux" />
 </p>
 
 ---
 
-##  Engineering Philosophy
-
--  **Clean Architecture**  
-  Business logic should not depend on frameworks.
-
--  **Performance Awareness**  
-  Especially in algorithmic and backend-heavy systems.
-
--  **Continuous Improvement**  
-  Every solution can be simpler and clearer.
-
----
-##  Problem Solving
-
-I treat coding as a craft. My academic background allows me to write optimized code:
-
-- **Algorithmic Thinking:** Solving complex problems using C++ & C#.
-- **Complexity Analysis:** Focusing on Time & Space complexity.
-- **Continuous Practice:** Active on competitive programming platforms.
----
 
 ##  Languages
 
